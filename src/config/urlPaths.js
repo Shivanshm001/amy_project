@@ -1,4 +1,11 @@
 export const HOME = "/";
 export const ROOT = '/';
 export const DEFAULT = '/';
+export const SERVICES = '/services'
+export const LOGIN = '/login'
+export const LOGOUT = '/logout'
+export const REGISTER = '/register'
+export const FAQ_PAGE = '/faq'
+export const HEALTH_ARTICLES = '/health_articles'
+export const ABOUT_US = '/about'
 export const NOT_FOUND = '*';

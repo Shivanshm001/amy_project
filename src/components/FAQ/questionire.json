@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "que": "How do I update my contact information?",
+      "ans": "You can update your contact information by logging into your patient portal and selecting the \"Profile\" or \"Account Settings\" option. Alternatively, you can contact our customer service team for assistance."
+    },
+    {
+      "id": 2,
+      "que": "Can I request a copy of my test results?",
+      "ans": "Yes, you can request a copy of your test results through your patient portal or by contacting our medical records department. Please allow up to [insert timeframe] for processing."
+    },
+    {
+      "id": 3,
+      "que": "What should I do if I need to cancel or reschedule my appointment?",
+      "ans": "To cancel or reschedule your appointment, please log into your patient portal or contact our scheduling department at least [insert timeframe] in advance. This helps us accommodate other patients who may need care."
+    },
+    {
+      "id": 4,
+      "que": "Are there any fees for missed appointments?",
+      "ans": "Yes, there may be a fee for missed appointments. Please refer to our [insert hospital/clinic name] policy for more information."
+    },
+    {
+      "id": 5,
+      "que": "How can I request a referral to a specialist?",
+      "ans": "To request a referral to a specialist, please contact your primary care physician (PCP) or request a referral through your patient portal. Your PCP will evaluate your condition and determine if a referral is necessary."
+    },
+    {
+      "id": 6,
+      "que": "Do you offer assistance for patients with language barriers?",
+      "ans": "Yes, we offer interpreter services for patients with language barriers. Please inform our staff of your language preference when scheduling your appointment or upon arrival at the hospital/clinic."
+    },
+    {
+      "id": 7,
+      "que": "How can I request medical records for a minor?",
+      "ans": "If you are the parent or legal guardian of a minor, you can request their medical records by contacting our medical records department. Please be prepared to provide proof of guardianship."
+    },
+    {
+      "id": 8,
+      "que": "What should I do if I have a concern about patient care or safety?",
+      "ans": "If you have a concern about patient care or safety, please contact our patient advocacy department. Your feedback is important to us and helps us improve our services."
+    },
+    {
+      "id": 9,
+      "que": "Can I request a specific hospital for my procedure or surgery?",
+      "ans": "Yes, you can request a specific hospital for your procedure or surgery. Please discuss your preferences with your healthcare provider or scheduling department."
+    },
+    {
+      "id": 10,
+      "que": "How do I request a copy of my discharge summary?",
+      "ans": "You can request a copy of your discharge summary through your patient portal or by contacting our medical records department. Please allow up to [insert timeframe] for processing."
+    },
+    {
+      "id": 11,
+      "que": "Can I request a copy of my imaging studies (X-rays, MRI, etc.)?",
+      "ans": "Yes, you can request a copy of your imaging studies through your patient portal or by contacting our medical records department. Please allow up to [insert timeframe] for processing."
+    },
+    {
+      "id": 12,
+      "que": "Are there any restrictions on cell phone or electronic device use in the hospital?",
+      "ans": "Yes, for the comfort and privacy of our patients, we ask that cell phone use be limited in certain areas of the hospital. Please adhere to posted signs and staff instructions regarding electronic device use."
+    },
+    {
+      "id": 13,
+      "que": "How can I request a copy of my immunization records?",
+      "ans": "You can request a copy of your immunization records through your patient portal or by contacting our medical records department. Please allow up to [insert timeframe] for processing."
+    },
+    {
+      "id": 14,
+      "que": "What should I do if I have questions about my insurance coverage?",
+      "ans": "If you have questions about your insurance coverage, please contact our billing department or your insurance provider for assistance."
+    },
+    {
+      "id": 15,
+      "que": "Can I request a copy of my hospital bill for tax purposes?",
+      "ans": "Yes, you can request a copy of your hospital bill for tax purposes. Please contact our billing department for assistance."
+    },
+    {
+      "id": 16,
+      "que": "How can I request a medical certificate for work or school?",
+      "ans": "You can request a medical certificate for work or school through your patient portal or by contacting your healthcare provider's office. Please allow up to [insert timeframe] for processing."
+    },
+    {
+      "id": 17,
+      "que": "Do you offer smoking cessation programs or resources?",
+      "ans": "Yes, we offer smoking cessation programs and resources. Please contact our [insert department name] for more information."
+    },
+    {
+      "id": 18,
+      "que": "How can I provide feedback about a specific department or service?",
+      "ans": "You can provide feedback about a specific department or service by completing a patient satisfaction survey, contacting our patient advocacy department, or speaking with a member of our staff."
+    },
+    {
+      "id": 19,
+      "que": "Are there any volunteer opportunities available for community members?",
+      "ans": "Yes, we offer volunteer opportunities for community members. Please contact our volunteer services department for more information."
+    },
+    {
+      "id": 20,
+      "que": "How can I request a copy of your hospital's policies and procedures?",
+      "ans": "You can request a copy of our hospital's policies and procedures by contacting our administrative office or visiting our website for more information."
+    }
+  ]
+  

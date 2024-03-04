@@ -5,6 +5,7 @@
             "components/*": ["./src/components/*"],
             "redux/*": ["./src/redux/*"],
             "config/*": ["./src/config/*"],
+            "assets/*": ["./src/assets/*"],
             "pages/*": ["./src/pages/*"],
         }
     }

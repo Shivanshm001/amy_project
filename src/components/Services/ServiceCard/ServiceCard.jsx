@@ -1,15 +1,19 @@
 import React from 'react';
+import Button from 'react-bootstrap/Button';
+import Card from 'react-bootstrap/Card';
 import { Link } from 'react-router-dom';
 
 
-export function ServiceCard({ icon, text, link }) {
-    return (
-        <div className='col-span-1 m-4 grid place-items-center gap-2'>
-            <Link to={`#${link}`} className=' text-center flex flex-col gap-3'>
-                <img src={icon} alt={text} width={200} height={200} className="border border-black" />
-                    <span className='inline-block font-semibold text-xl'>{text}</span>
-            </Link>
-            <Link to={`#${link}`} className='bg-blue-400 text-white font-semibold px-3 py-2 rounded-full hover:scale-105 active:scale-95'>View More</Link>
+export function ServiceCard({icon, link, text}) {
+  return (
+    <Card style={{ width: '18rem', boxShadow: '0px 0px 5px 1px grey' }}>
+      <Card.Img variant="top" src={icon} />
+      <Card.Body>
+        <Card.Title className='text-center'>{text}</Card.Title>
+        <div style={{display: 'flex', justifyContent:'center'}}>
+        <Button variant="primary" size='sm' className='my-1'  as={Link} to={`#${link}`}>Know More</Button>
         </div>
-    );
+      </Card.Body>
+    </Card>
+  );
 }
